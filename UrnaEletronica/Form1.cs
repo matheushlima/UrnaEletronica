@@ -30,7 +30,7 @@ namespace UrnaEletronica
 
         private void Cabecalho()
         {
-            x.WriteLine("Candidato: ");
+            x.WriteLine("Candidato: \n");
         }
 
         //-----------------
@@ -276,10 +276,9 @@ namespace UrnaEletronica
 
         private void btnConfirma_Click(object sender, EventArgs e)
         {
-            x.WriteLine("\n"+lblNum.Text);
-
             //Geração de mensagem
             MessageBox.Show("Voto Computado", "Gravar Voto", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
             pictureBox1.Image = null;
             lblNome.Text = "";
             lblPartido.Text = "";
