@@ -47,18 +47,6 @@ namespace UrnaEletronica
             btnNum7.Enabled = false;
             btnNum8.Enabled = false;
             btnNum9.Enabled = false;
-
-            //Color
-            btnNum0.ForeColor = Color.White;
-            btnNum1.ForeColor = Color.White;
-            btnNum2.ForeColor = Color.White;
-            btnNum3.ForeColor = Color.White;
-            btnNum4.ForeColor = Color.White;
-            btnNum5.ForeColor = Color.White;
-            btnNum6.ForeColor = Color.White;
-            btnNum7.ForeColor = Color.White;
-            btnNum8.ForeColor = Color.White;
-            btnNum9.ForeColor = Color.White;
         }
 
         //-----------------
