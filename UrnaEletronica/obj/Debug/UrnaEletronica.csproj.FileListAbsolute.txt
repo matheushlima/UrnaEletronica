@@ -8,3 +8,13 @@ C:\Users\mathh\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletroni
 C:\Users\mathh\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.CoreCompileInputs.cache
 C:\Users\mathh\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
 C:\Users\mathh\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojAssemblyReference.cache
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.cache
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+C:\Users\mathh\Documents\Github\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
