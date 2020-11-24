@@ -261,6 +261,8 @@ namespace UrnaEletronica
             //Geração de mensagem
             MessageBox.Show("Voto Computado", "Gravar Voto", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
+            x.WriteLine(lblNum.Text);
+
             pictureBox1.Image = null;
             lblNome.Text = "";
             lblPartido.Text = "";
