@@ -17,3 +17,16 @@
  
  OBS: Após a escolha de um candidato os botão com os numeros ficam desabilitados para que não seja digitado qualquer número o e botão "CONFIRMAR" fique liberado.
  
+# Demonstração
+
+### Tela Principal
+
+![](https://github.com/matheushlima/UrnaEletronica/blob/main/Imagens/TelaInicial.png)
+
+### Tela Candidato
+
+![](https://github.com/matheushlima/UrnaEletronica/blob/main/Imagens/CandidatoSelecionado.png)
+
+### Tela Confirmação do voto
+
+![](https://github.com/matheushlima/UrnaEletronica/blob/main/Imagens/ConfirmaVoto.png)
